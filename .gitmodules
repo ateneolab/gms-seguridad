@@ -2,3 +2,7 @@
 	path = l10n-account-ec
 	url = git@gitlab.com:ateneolab/common/l10n-account-ec.git
 	branch = develop-14.0
+[submodule "l10n-rh-ec"]
+	path = l10n-rh-ec
+	url = git@gitlab.com:ateneolab/common/l10n-rh-ec.git
+	branch = develop-14.0
