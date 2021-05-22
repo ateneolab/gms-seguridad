@@ -18,3 +18,7 @@
 	path = loj-tools-src
 	url = git@gitlab.com:ateneolab/lojagas/loj-tools-src.git
 	branch = master-14.0
+[submodule "loj-business-src"]
+	path = loj-business-src
+	url = git@gitlab.com:ateneolab/lojagas/loj-business-src.git
+	branch = develop-14.0
