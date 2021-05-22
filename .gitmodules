@@ -10,3 +10,7 @@
 	path = loj-rrhh-src
 	url = git@gitlab.com:ateneolab/lojagas/loj-rrhh-src.git
 	branch = develop-14.0
+[submodule "loj-account-src"]
+	path = loj-account-src
+	url = git@gitlab.com:ateneolab/lojagas/loj-account-src.git
+	branch = develop-14.0
