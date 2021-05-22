@@ -22,3 +22,7 @@
 	path = loj-business-src
 	url = git@gitlab.com:ateneolab/lojagas/loj-business-src.git
 	branch = develop-14.0
+[submodule "manufacture"]
+	path = manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 14.0
