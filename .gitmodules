@@ -6,3 +6,7 @@
 	path = l10n-rh-ec
 	url = git@gitlab.com:ateneolab/common/l10n-rh-ec.git
 	branch = develop-14.0
+[submodule "loj-rrhh-src"]
+	path = loj-rrhh-src
+	url = git@gitlab.com:ateneolab/lojagas/loj-rrhh-src.git
+	branch = develop-14.0
